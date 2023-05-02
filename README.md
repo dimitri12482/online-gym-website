@@ -1,4 +1,4 @@
-This project is live https://athletefit.netlify.app/
+This project is live https://www.gymbiaonline.com
 
 ## Available Scripts
 
